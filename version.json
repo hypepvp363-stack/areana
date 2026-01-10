@@ -1,7 +1,10 @@
 {
-  "version": "1.00",
+  "version": "1.50",
   "changelog": [
-        "Welcome To Criticalz Scripts"
+        "Add Can Enable Or Disable Ping",
+        "Fix Reload Arena",
+        "Fix All Problem"
   ]
 
 }
+
