@@ -1,5 +1,5 @@
 {
-  "version": "1.50",
+  "version": "1.55",
   "changelog": [
         "Add Can Enable Or Disable Ping",
         "Add Can Enable Or Disable Minigame",
@@ -8,5 +8,6 @@
   ]
 
 }
+
 
 
